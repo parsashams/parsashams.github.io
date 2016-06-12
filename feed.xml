@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PS</title>
-    <description>I am a Data Scientist, and currently live in the Washington, DC area.
+    <title>Parsa Shams</title>
+    <description>Home page of parsa shams. Parsa is a Data Scientist, and currently lives in Washington, DC.
 </description>
-    <link>http://parsashams.github.io/</link>
-    <atom:link href="http://parsashams.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 11 Jun 2016 19:27:09 -0400</pubDate>
-    <lastBuildDate>Sat, 11 Jun 2016 19:27:09 -0400</lastBuildDate>
+    <link>http://www.parsashams.com/</link>
+    <atom:link href="http://www.parsashams.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 12 Jun 2016 19:08:40 -0400</pubDate>
+    <lastBuildDate>Sun, 12 Jun 2016 19:08:40 -0400</lastBuildDate>
     <generator>Jekyll v3.1.3</generator>
     
       <item>
@@ -26,8 +26,8 @@
 
 </description>
         <pubDate>Sun, 15 May 2016 22:34:37 -0400</pubDate>
-        <link>http://parsashams.github.io/blog/data/test/2016/05/15/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://parsashams.github.io/blog/data/test/2016/05/15/welcome-to-jekyll.html</guid>
+        <link>http://www.parsashams.com/blog/data/test/2016/05/15/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://www.parsashams.com/blog/data/test/2016/05/15/welcome-to-jekyll.html</guid>
         
         
         <category>blog</category>
@@ -35,6 +35,153 @@
         <category>data</category>
         
         <category>test</category>
+        
+      </item>
+    
+      <item>
+        <title>Significant Reads: The New Statistics</title>
+        <description>&lt;p style=&quot;text-align:left;&quot;&gt;&lt;img class=&quot;alignright wp-image-84 size-full&quot; src=&quot;/assets/tnsbookcover.jpg&quot; alt=&quot;The New Statistics&quot; width=&quot;166&quot; height=&quot;249&quot; /&gt;I read a wonderful book lately. &lt;a href=&quot;http://www.latrobe.edu.au/psy/research/cognitive-and-developmental-psychology/esci&quot; target=&quot;_blank&quot;&gt;The New Statistic&lt;/a&gt; by &lt;a href=&quot;http://www.latrobe.edu.au/psy/about/staff/profile?uname=GDCumming&quot;&gt;Geoff Cumming&lt;/a&gt; is highly recommended for anyone serious about rigorous data analysis.&lt;/p&gt;
+&lt;p style=&quot;text-align:left;&quot;&gt;If you thought your stats class is college was dry at best and confusing at worst, then you are going to find a breath of fresh air in this book. I can best describe the book as a user manual explaining the practical implications of &lt;strong&gt;Statistical Cognition &lt;/strong&gt;for day to day practitioners of statistics&lt;strong&gt;. &lt;/strong&gt;Statistical Cognition is the study of how we  perceive statistics and probability. It is the study of what we actually feel when we hear something like this: &quot;&lt;em&gt;There is a 30% chance of rain tomorrow&quot;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p style=&quot;text-align:left;&quot;&gt;Statistical Cognition is the study of how we  perceive statistics and probability. It is the study of what we actually feel when we hear something like this: &quot;Th&lt;em&gt;ere is a 30% chance of rain tomorrow&quot;.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p style=&quot;text-align:left;&quot;&gt;The traditional process of statistical data analysis revolves around Null Hypothesis Tests. This is the statistics that most of us studied at school and are familiar with. It works like this: We express hypotheses in terms of a Null (H&lt;sub&gt;0&lt;/sub&gt;) and an Alternative (H&lt;span style=&quot;font-size:11.25px;line-height:0;&quot;&gt;1&lt;/span&gt;) statement, and then we try to constructs test statistics that can, or cannot, reject the null hypothesis. The idea is that as more and more tests are done by several different researchers (thus replicating the results), a body of research will emerge that helps us paint a clear picture of the phenomena under study. Say, if the majority of studies find a &quot;statistically significant&quot; effect, then we conclude that there is strong reason to believe the effect exists. This is the cornerstone of Scientific Method that I was taught at school. This is how my grad school advisors (all very successful academics) viewed research and wrote their papers.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p style=&quot;text-align:left;&quot;&gt;Traditional Statistics revolves around Null Hypothesis Significance Tests (NHST). We express hypotheses in terms of a Null (H&lt;sub&gt;0&lt;/sub&gt;) and an Alternative (H&lt;span style=&quot;font-size:11.25px;line-height:0;&quot;&gt;1&lt;/span&gt;) statement, and then we try to constructs test statistics that can, or cannot, reject the null hypothesis.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p style=&quot;text-align:left;&quot;&gt;Now, the New Statistics approach (the academic jargon is the New Reformist Movement) gives us a completely different story that the NHST form of thinking. These guys say that NHST is deeply flawed mainly because humans are not really good at understanding probability. We tend to have a lot of cognitive fallacies when it comes to understanding probability. A good example of these fallacies in the context of NHST is known as the &lt;b&gt;Cliff Effect&lt;/b&gt;. This refers to a sudden loss of confidence if the p-value is slightly larger than the conventional rejection threshold (.05, or .1), meaning people tend to think the difference between .048 and .052 is greater than the difference between .034 and .038. We are very sensitive to passing the threshold as if there is a cliff right around .05 in everyone&#39;s mind!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p style=&quot;text-align:left;&quot;&gt;This Cliff Effect is a cognitive bias referring to a sudden loss of confidence when the p-value is slightly larger than the conventional rejection threshold (.05, or .1). Seems like humans are very sensitive when p&amp;gt;.05, as if having a mental cliff right around .05!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p style=&quot;text-align:left;&quot;&gt;I highly recommend the &lt;a href=&quot;http://www.latrobe.edu.au/psy/research/cognitive-and-developmental-psychology/esci&quot;&gt;book&lt;/a&gt;. Geoff Cumming is a very prolific author and discusses the same concepts in several other &lt;a href=&quot;http://pss.sagepub.com/content/25/1/7.full.pdf+html&quot;&gt;papers&lt;/a&gt; and &lt;a href=&quot;https://theconversation.com/mind-your-confidence-interval-how-statistics-skew-research-results-3186&quot;&gt;articles&lt;/a&gt;. They are all very insightful reading material.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Apr 2015 02:38:00 -0400</pubDate>
+        <link>http://www.parsashams.com/blog/books/2015/04/03/bookreading-the-new-statistics.html</link>
+        <guid isPermaLink="true">http://www.parsashams.com/blog/books/2015/04/03/bookreading-the-new-statistics.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>Quick Data Simulation for Prototyping</title>
+        <description>&lt;p&gt;&lt;img class=&quot;alignright wp-image-63 &quot; src=&quot;/assets/befunky_crash-test-dummy-man1.jpg?w=300&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;201&quot; /&gt;Few people actually admit it, but dummy data plays a crucial role in BI applications/dashboards! Why? Because usually the UI team is waiting for the data development team to get the data ready before they can move forward. The best way to avoid this idle time is to generate some made-up (or dummy) data and use that to populate the database. But good dummy data is surprisingly difficult to generate.&lt;/p&gt;
+&lt;p&gt;How do we define good dummy data? Simply three conditions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;It must have referential integrity: &lt;/strong&gt;No broken links&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It must have proper features to allow for unit testing of the program logic:&lt;/strong&gt; a data-set that is full of &quot;test&quot;s, &quot;0&quot;s and &quot;1&quot;s is not really useful for testing purposes because you would have no way of testing if you data is getting aggregated in the UI layer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It must make sense:&lt;/strong&gt; test12345 is not an acceptable male name. (&lt;em&gt;Well, this one is a nice to have. Your dummy data will still work but the presentation will probably not knock your stakeholder&#39;s socks off).&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;How to make such data. Here is an easy two step approach:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Step 1: Populate lookup table elements with data that is as close to real data as possible.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Step 2: Populate fact tables, using joins and random functions to your advantage. &lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;!--more--&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Step 1: Populate lookup table elements with data that is as close to real data as possible.&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The complexity of this step can vary based on the complexity of your data model. The fist step in this process is always the same, you need to start at the outer edges of the data model. The outer tables are those with only one primary key and no foreign keys. You can write a simple queries on the database metadata to extract the list of tables sorted by the number of key constraints. Here is a sample script to do this in postgresql:&lt;/p&gt;
+&lt;p&gt;[code lang=&quot;sql&quot;]&lt;br /&gt;
+SELECT tables.table_name,&lt;br /&gt;
+       columns.column_name,&lt;br /&gt;
+       columns.data_type,&lt;br /&gt;
+       columns.ordinal_position,&lt;br /&gt;
+       CASE WHEN position(&#39;dk&#39; in columns.column_name) &amp;gt; 0 THEN 1 END AS column_type&lt;br /&gt;
+FROM information_schema.tables,&lt;br /&gt;
+     information_schema.columns&lt;br /&gt;
+WHERE tables.table_name = columns.table_name&lt;br /&gt;
+  AND tables.table_schema = columns.table_schema&lt;br /&gt;
+  AND tables.table_schema = &#39;a&#39;&lt;br /&gt;
+ORDER BY&lt;br /&gt;
+  tables.table_name DESC,&lt;br /&gt;
+  columns.ordinal_position ASC&lt;br /&gt;
+[/code]&lt;/p&gt;
+&lt;p&gt;Now In our data model all the key elements had a &quot;_dk&quot; postfix, and that is how I identify the keys. &lt;em&gt;(I am sure there are better ways to do this, but this is my quick and dirty way!)&lt;/em&gt;. In any case, this Query will give us a list of lookup table names ordered by the number of keys. To populate the tables we start with the ones with only one primary key and no foreign keys. Now, we can populate each table manually or we can generate random data. The best way to do this for lookup tables is to use a free online service designed for this purpose (Remember, this is just dummy data, with a shelf-life of maybe a couple of months, so no need to over engineer this). Here are two good tools:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.generatedata.com/&quot;&gt;http://www.generatedata.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://dummydata.me/&quot;&gt;http://dummydata.me/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Both of these tools allow for some flexibility and have the most common types of data like phone number, dates, names, etc. So you can They are very easy to work with and allow you to create clean dummy lookup tables quickly.&lt;/p&gt;
+&lt;p&gt;Now, let&#39;s look at an extreme example. Let&#39;s say we want to generate really realistic dummy data. For example, we want to populate the &#39;ad dimension&#39; table for an online advertising company, and we want to have ads from various industries. If we generate this data using simple random function, the resulting data will be very uniform, since we are using a uniform random distribution function. To solve this, we need to tweak the probability distribution a little bit, via a little bit of code. This allows us to define our own probability distribution and impose conditions on the lookup table elements. Here&#39;s the example of the advertising company using R:&lt;/p&gt;
+&lt;p&gt;[code lang=&quot;R&quot;]&lt;br /&gt;
+# Ad Dimension Table ------------------------------------------------------&lt;br /&gt;
+ncampaigns &amp;lt;- 30&lt;/p&gt;
+&lt;p&gt;adID &amp;lt;- 1:ncampaigns&lt;/p&gt;
+&lt;p&gt;Industries &amp;lt;- c(&amp;quot;Health Care&amp;quot;, &amp;quot;Automotive&amp;quot;, &amp;quot;Fast Food&amp;quot;, &amp;quot;Sporting Goods&amp;quot;, &amp;quot;Software&amp;quot;)&lt;br /&gt;
+distInd     &amp;lt;- c(1,5,2,10,3)&lt;br /&gt;
+adIndustry &amp;lt;- sapply(adID, function(ind) { sample(Industries, size=1, prob=distInd) })&lt;br /&gt;
+[/code]&lt;/p&gt;
+&lt;p&gt;In the code above we are using a weighted vector to impose a probability distribution on the campaigns so that the resulting data has our desired composition. R is very powerful with this type of vector manipulation, so we can do all that in only three lines. Luckily we do not usually have to resort to simulations like this with dummy data generation.&lt;/p&gt;
+&lt;p&gt;Now that we have all the lookup tables populated, it is time to populate the fact tables. This is actually quite easy.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Step 2: Load Fact Tables Using Joins and Random Functions&lt;br /&gt;
+&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;There are two methods to simulating dummy data for fact tables.&lt;/p&gt;
+&lt;p&gt;First, we can use use bulk insert statements in SQL by utilizing random functions that are native to SQL to generate the desired fact values. I use the random() function extensively and then use a variation of different functions on top of them to create the desired effect. The &lt;tt&gt;random()&lt;/tt&gt; function in SQL generates a random number between zero and one using the uniform distribution. This might sound too simplistic, but it covers the majority of dummy data use cases. We can use variations of the random function along with simple math to create the desired fact values. For example, to create an integer value between 0 and 10 we can write&lt;/p&gt;
+&lt;p&gt;[code lang=&quot;sql&quot; gutter=&quot;false&quot;] floor(random()*11) [/code]&lt;/p&gt;
+&lt;p&gt;We can also get creative and create dependencies between the facts and levels of our dimension attributes. Say we want to generate a fact called Status that is to vary based on two or more other attribute, we can use the remainder operator &lt;tt&gt;(%)&lt;/tt&gt; to generate a dependent value.:&lt;/p&gt;
+&lt;p&gt;[code lang=&quot;sql&quot; gutter=&quot;false&quot;] (a.FactCalcTableKey+b.FinYearKey) % 3 [/code]&lt;/p&gt;
+&lt;p&gt;In this case we have three possible values for status.&lt;/p&gt;
+&lt;p&gt;Sky is really the limit with this technique. You can play with various functional forms to generate the data in the format that is needed. Here is a more extensive example code:&lt;/p&gt;
+&lt;p&gt;[code lang=&quot;sql&quot;]&lt;/p&gt;
+&lt;p&gt;SET SCHEMA &#39;public&#39;;&lt;br /&gt;
+TRUNCATE TABLE public.fact_calculation;&lt;br /&gt;
+SET SEED = 0.42;&lt;br /&gt;
+INSERT INTO public.fact_calculation&lt;br /&gt;
+(  &lt;br /&gt;
+ SELECT  &lt;br /&gt;
+  a.FactCalcTableKey AS FactCalcTableKey,&lt;br /&gt;
+  b.FinYearKey AS FinYearKey,&lt;br /&gt;
+  c.TimePeriodKey AS TimePeriodKey,&lt;br /&gt;
+  ( (a.FactCalcTableKey+b.FinYearKey) % 3 ) +1 AS StatusKey,&lt;br /&gt;
+  floor(random()*11) AS Score,&lt;br /&gt;
+  (CASE WHEN random() &amp;gt; 0.2 THEN &#39;High&#39; ELSE &#39;low&#39; END) AS Rate,&lt;br /&gt;
+  5 AS Baseline,&lt;br /&gt;
+  floor(random()*10) AS Score1,&lt;br /&gt;
+  floor(random()*11) AS Score2,&lt;br /&gt;
+  floor(random()*20) AS Score3,&lt;br /&gt;
+  floor(random()*1000) AS FinImpact,&lt;br /&gt;
+  floor(random()*100) AS CountEvents,&lt;br /&gt;
+  random()*3 AS Variance&lt;br /&gt;
+FROM&lt;br /&gt;
+  lu_OrgStructure a,&lt;br /&gt;
+  lu_FiscYear b,&lt;br /&gt;
+  lu_TimePeriod c&lt;br /&gt;
+WHERE&lt;br /&gt;
+  c.TimePeriodKey IN (1,2,3,4)&lt;br /&gt;
+GROUP BY&lt;br /&gt;
+ FactCalcKey, FinYearKey, TimePeriodKey&lt;br /&gt;
+ LIMIT 1000&lt;br /&gt;
+); &lt;/p&gt;
+&lt;p&gt;[/code]&lt;/p&gt;
+&lt;p&gt;This amount of data should be enough to allow developers to move forward with their work, but again, if we have an extreme case that requires very sophisticated simulated dummy data, we can use a higher level language to program in any relationships that could exist. Let me give you an example. Remember the online advertising example, imagine the outcome variable in that case was the decision of the user to click on the ad or not. This would be a binary variable, but creating that as a simple &lt;tt&gt;random()&lt;/tt&gt; would make up for some very lackluster dashboards because everything would be uniform and provide no features for the user to explore. But what if we used R to create a logistic function to simulate the users response based on a bunch of probability estimates? That way we can work a number of arbitrary assumptions into the model, say if we wanted adult male users to have a more positive response to ads involving sports, we could do that. Following code should give you a good idea how to this (confluence does not support syntax highlighting for &lt;tt&gt;R&lt;/tt&gt;). Here, we are using R to simulate a binary outcome variable with an arbitrary probability function using a logistic link function. This is just a fancier way of doing the same thing we were doing with SQL &lt;tt&gt;random()&lt;/tt&gt; function. The only complexity is that we are using a logistic function which gives us a probability value given a relatively complex setup of independent variables such as Gender, Age and Day of Week. We then use this simulated probability value to forecast whether a click event is observed. See the code below:&lt;/p&gt;
+&lt;p&gt;[code lang=&quot;r&quot;]&lt;br /&gt;
+e = rnorm(k) # K is the number of rows in the fact table&lt;br /&gt;
+logit = function(x){ exp(x)/(1+exp(x))}&lt;br /&gt;
+p=logit(-  1 * (gender==&amp;quot;F&amp;quot;)&lt;br /&gt;
+        + .1 * (gender==&amp;quot;M&amp;quot;)&lt;br /&gt;
+        + .2 * (adIndustry==&amp;quot;Tech&amp;quot;)&lt;br /&gt;
+        + .3 * (abs(age-35))&lt;br /&gt;
+        + .3 * (weekday == &amp;quot;Friday&amp;quot; )&lt;br /&gt;
+        + .5 * (toString(progIndustry) == toString(adIndustry))&lt;br /&gt;
+        -12 + e)&lt;/p&gt;
+&lt;p&gt;pairs(data.frame(p, as.numeric(hourID), dateID-joindateID), col=gender)&lt;br /&gt;
+hist(p, prob=TRUE)&lt;br /&gt;
+mean(p)&lt;br /&gt;
+#generate the click using the probability distribuion&lt;br /&gt;
+click = rbinom(k[1],1,prob=p)&lt;br /&gt;
+[/code]&lt;/p&gt;
+&lt;p&gt;This is mostly for aesthetic reasons and the only reason we are doing this is to create some variance in the data. This variance will help us show the usefulness of the application during demo to stakeholders (if real data is not ready by that time). Again, in most cases we do not need to go to such lengths.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Nov 2014 04:00:55 -0500</pubDate>
+        <link>http://www.parsashams.com/blog/data/2014/11/12/how-to-create-good-dummy-data-part-1.html</link>
+        <guid isPermaLink="true">http://www.parsashams.com/blog/data/2014/11/12/how-to-create-good-dummy-data-part-1.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>data</category>
         
       </item>
     
